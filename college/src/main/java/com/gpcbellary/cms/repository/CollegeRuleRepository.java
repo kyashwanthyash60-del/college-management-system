@@ -1,0 +1,1 @@
+package com.gpcbellary.cms.repository; import com.gpcbellary.cms.model.CollegeRule; import org.springframework.data.jpa.repository.JpaRepository; public interface CollegeRuleRepository extends JpaRepository<CollegeRule,Long>{}
